@@ -21,6 +21,11 @@
 <br>
 
 <p align="center">
+ <h1>Electrum E-Commerce</h1>
+ <img src="./assets/preview/electrum.gif">
+</p>
+
+<p align="center">
  <h1>Electrum E-Commerce (Versão para PC)</h1>
  <img src="assets/preview/Electrum (PC).png">
 </p>
