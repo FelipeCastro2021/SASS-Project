@@ -14,7 +14,6 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
   <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript">
   <img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS&background=gray">
 </p>
 
